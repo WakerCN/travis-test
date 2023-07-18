@@ -1,7 +1,8 @@
 name: my first workflow
 
 on:
-  push: tags
+  push: 
+    tags: **
 
 jobs:
   build:
