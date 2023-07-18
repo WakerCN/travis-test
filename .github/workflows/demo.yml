@@ -1,6 +1,6 @@
 name: my first workflow
 
-on: workflow_dispacth
+on: workflow_dispatch
 
 jobs:
   build:
