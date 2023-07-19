@@ -4,5 +4,6 @@
  * @Description  :
  */
 import DgButton from "./DgButton/DgButton.vue";
+import DgIcon from "./DgIcon/DgIcon.vue";
 
-export { DgButton };
+export { DgButton, DgIcon };
